@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-  <title>Airbnb Property Management in Mauritius - HostAgents</title>
+  <title>Airbnb Property Management in Cape Town - HostAgents</title>
   <meta name="description"
     content="HostAgents is a Professional Airbnb Property Manager in Mauritius taking care of everytghing from bookings, guests, housekeeping and maintenance.">
   <meta name="keywords"
